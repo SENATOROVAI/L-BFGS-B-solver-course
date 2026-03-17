@@ -1,4 +1,4 @@
-### https://SenatorovAI.com
+#### https://SenatorovAI.com
 
 # Limited-Memory BFGS (L-BFGS) solver — A Research-Oriented Course
 
